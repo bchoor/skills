@@ -8,6 +8,7 @@
   },
   "homepage": "https://github.com/bchoor/skills",
   "repository": "https://github.com/bchoor/skills",
+  "version": "1.0.0",
   "license": "MIT",
   "plugins": [
     {
